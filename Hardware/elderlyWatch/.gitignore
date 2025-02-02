@@ -1,0 +1,4 @@
+# esp-idf in VSCode
+build/
+.vscode/
+*.code-workspace

@@ -1,0 +1,5 @@
+# pio
+.pio/
+.vscode/
+*.code-workspace
+test/

@@ -1,0 +1,5 @@
+# keil in VSCode
+OBJ
+.vscode/
+*.code-workspace
+
